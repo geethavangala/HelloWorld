@@ -1,8 +1,7 @@
+sum=0
+i=1
+while(i<=100):
+    sum=sum+i
+    i=i+1
 
-#this is an example
-print ("Hello World");
-print("This is my sixth program");
-first_name = 'Venkat';
-last_name = 'vangala';
-full_name = first_name + ' ' + last_name;
-print(full_name);
+print("sum of fist 100 numbers is:",sum)

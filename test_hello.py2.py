@@ -1,2 +1,5 @@
-print ("Hello World");
-print("This is my third program");
+i = 2
+while i < 20:
+  if i%2 !=0:
+    print(i)
+  i = i+1
